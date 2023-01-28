@@ -21,7 +21,7 @@
 title: "Yajie's Blog"
 email: "yg1390 AT york dot ac dot uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  A newbie of Computer Vision
+  A PhD student of Computer Vision
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
