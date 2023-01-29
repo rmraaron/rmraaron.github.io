@@ -1,8 +1,6 @@
 # rmraaron.github.io
-BLOG
 
-
-My Blog address: https://rmraaron.github.io
+## My Blog address: https://rmraaron.github.io
 
 
 local dir: Projects/rmraaron.github.io
