@@ -21,6 +21,7 @@ run in the local: bundler exec jekyll serve
 
 
 
-deploy remotely: bin/deploy --user (### source branch is projects not master - should be changed in deploy file)
+deploy remotely: bin/deploy --user (
+### source branch is projects not master - should be changed in deploy file)
 
 gh-pages branch will be generated in remote server automatically and deployment in Actions will succeed (settings -> Pages -> Branchs(choosing gh-pages))
