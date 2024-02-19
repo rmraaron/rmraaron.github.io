@@ -19,8 +19,8 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi, I am Yajie Gu, a final-year PhD student in [Vision, Graphics and Learning Research Group (VGL)](https://www.cs.york.ac.uk/research/groups/vision-graphics-and-learning/) at University of York, UK, supervised by Prof. [Nick Pears](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=nep)
-<!-- (https://pure.york.ac.uk/portal/en/persons/nick-pears) -->. 
+Hi, I am Yajie Gu, a final-year PhD student in [Vision, Graphics and Learning Research Group (VGL)](https://www.cs.york.ac.uk/research/groups/vision-graphics-and-learning/) at University of York, UK, supervised by Prof. [Nick Pears](https://www.cs.york.ac.uk/people/?group=Academic%20and%20Teaching%20Staff&username=nep).
+<!-- (https://pure.york.ac.uk/portal/en/persons/nick-pears) -->
 
 my PhD research has focussed on understanding and exploring generative models for the analysis and modelling of 3D facial scans. I have specifically worked on developing models that disentangle face identity and expression in an explicit manner, i.e., point clouds, and on learning independent parts-based latent representations of 3D face shapes in an implicit manner, i.e., signed distance functions, which aims to achieve semantic controllability.
 The diverse applications based on the learnt representations have significantly captured my interest.
